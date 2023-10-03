@@ -1,11 +1,12 @@
-# On-This-Day-History_ICS-Calendar
-On this day in history, ICS iCal Calendar 
-
+# On-This-Day-History_ICS-Calendar<br>
+<br>
+<br>
 On this day in history... Dates/Events taken from Wikimedia.
-
-
--365 days a year
--20,000 Events/Entries
--Import into any ics/ical compatible calendar
--Only 5mb
--Enjoy!
+<br>
+<br>
+-365 days a year<br>
+-20,000 Events/Entries<br>
+-Import into any ics/ical compatible calendar<br>
+-Only 5mb<br>
+-Enjoy!<br>
+<br>
